@@ -9,16 +9,6 @@ Estou começando minha jornada no mundo da programação e este repositório ser
 - 📝 Anotações e dicas
 - 🧪 Experimentos com código
 
-## ⚙️ Tecnologias que estou aprendendo:
- 
-- HTML
-
-- CSS
-
-- JavaScript
-
-- Git e GitHub
- 
 
 ## 🎯 Objetivo
  
