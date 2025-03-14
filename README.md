@@ -11,7 +11,7 @@ Estou começando minha jornada no mundo da programação e este repositório ser
 - JavaScript
 - Git e GitHub
 
-## 🎯 Objetivo
+## xxxxxxxx
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
