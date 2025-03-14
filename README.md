@@ -11,11 +11,11 @@ Estou começando minha jornada no mundo da programação e este repositório ser
 - JavaScript
 - Git e GitHub
 
-<<<<<<< .merge_file_743WnO
+** Teste de conflito **
 ## xxxxxxxx
 =======
 ## YYYYYY
->>>>>>> .merge_file_vqmb3q
+** Teste de conflito **
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
